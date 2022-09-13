@@ -326,6 +326,8 @@ Version      : 1.0
 }
 
 .slick-dots {
+  display: none;
+    visibility: hidden;
   display: inline-block;
   width: auto;
   bottom: 18%;
@@ -348,6 +350,8 @@ Version      : 1.0
 
 .slick-prev,
 .slick-next {
+  display: none;
+    visibility: hidden;
   top: 80%;
   height: 54px;
   width: 54px;
@@ -357,7 +361,9 @@ Version      : 1.0
 
 .slick-prev:before,
 .slick-next:before {
-  color: #272343;
+    display: none;
+    visibility: hidden;
+    color: #272343;
 }
 
 .slick-prev {
