@@ -1314,8 +1314,9 @@ Version      : 1.0
   color: #ffffff;
   text-transform: capitalize !important;
   /* letter-spacing: 1px; */
-  font-family: "Tannenberg Fett", sans-serif !important;
-  font-size: 24px;
+  font-family: "Glacial Indifference" !important;
+  /* font-weight: 600; */
+  font-size: 20px;
   margin-right: 25px !important;
   -webkit-transition: 0.3s all linear;
   transition: 0.3s all linear;
